@@ -1,0 +1,18 @@
+/* @import must be at top of file, otherwise CSS will not work 
+@import url("//hello.myfonts.net/count/2e6f12");                     */
+
+@font-face {font-family: 'Eurostile';src: url('2E6F12_0_0.eot');src: url('2E6F12_0_0.eot?#iefix') format('embedded-opentype'),url('2E6F12_0_0.woff2') format('woff2'),url('2E6F12_0_0.woff') format('woff'),url('2E6F12_0_0.ttf') format('truetype');}
+@font-face {font-family: 'Eurostile-Black';src: url('2E6F12_1_0.eot');src: url('2E6F12_1_0.eot?#iefix') format('embedded-opentype'),url('2E6F12_1_0.woff2') format('woff2'),url('2E6F12_1_0.woff') format('woff'),url('2E6F12_1_0.ttf') format('truetype');}
+@font-face {font-family: 'Eurostile-Medium';src: url('2E6F12_2_0.eot');src: url('2E6F12_2_0.eot?#iefix') format('embedded-opentype'),url('2E6F12_2_0.woff2') format('woff2'),url('2E6F12_2_0.woff') format('woff'),url('2E6F12_2_0.ttf') format('truetype');}
+ 
+@font-face {
+    font-family: 'Edo';
+    src: url('edosz-webfont.eot');
+    src: url('edosz-webfont.eot?#iefix') format('embedded-opentype'),
+         url('edosz-webfont.woff2') format('woff2'),
+         url('edosz-webfont.woff') format('woff'),
+         url('edosz-webfont.ttf') format('truetype'),
+         url('edosz-webfont.svg#edo_szregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

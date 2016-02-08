@@ -1,0 +1,41 @@
+{
+	"localeCode": "se",
+	"localeName": "SVERIGE",
+	"dataDefault": {
+		"se": "data-default"
+	},
+	"available": "SLÄPPS 2015-09-01",
+	"braveTheWasteland": "BRAVE THE WASTELAND",
+	"preOrder": "FÖRBESTÄLL",
+	"learnMore": "LÄS MER",
+	"latestTrailer": "SENASTE TRAILERN - EYE OF THE STORM - SE DEN SENASTE TRAILERN NEDANFÖR",
+
+	"featuresTitle": "EGENSKAPER - BLI MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "UPPSLUKANDE ÖDELAND",
+			"main": "Utforska den smutsiga och dynamiska världen fylld av förrädiska landskap, onaturligt väder och dödliga plundrare."
+		},
+		"two": {
+			"title": "INTENSIVA FORDONSSTRIDER",
+			"main": "Upplev dynamiska fordonsstrider och slå ut fienden med en rad olika kraftfulla vapen."
+		},
+		"three": {
+			"title": "BLI MAD MAX",
+			"main": "Bli den ikoniska postapokalyptiska krigaren, tillverka utrustning och vapen, och kombinera närstridsattacker, eldstrider och taktik för att överleva."
+		}
+	},
+
+	"preOrderTitle": "BRAVE THE WASTELAND - FÖRBESTÄLL NU",
+	"step1": "STEG 1",
+	"step2": "STEG 2",
+	"step3": "STEG 3",
+	"step4": "STEG 4",
+	"selectPlatform": "VÄLJ PLATTFORM",
+	"selectCountry": "VÄLJ LAND",
+	"selectProduct": "VÄLJ PRODUKT",
+	"selectRetailer": "VÄLJ BUTIK",
+	"visitRetailer": "GÅ TILL BUTIK",
+	"mediaScreenshots": "MEDIER - SKÄRMBILDER",
+	"awardsAndNominations": "PRISER OCH NOMINERINGAR"
+}

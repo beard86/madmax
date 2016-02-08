@@ -1,0 +1,41 @@
+{
+	"localeCode": "dk",
+	"localeName": "DANMARK",
+	"dataDefault": {
+		"dk": "data-default"
+	},
+	"available": "UDKOMMER 01.09.15",
+	"braveTheWasteland": "BRAVE THE WASTELAND",
+	"preOrder": "FORUDBESTIL",
+	"learnMore": "LÆS MERE",
+	"latestTrailer": "SENESTE TRAILER - EYE OF THE STORM - SE DEN NYESTE TRAILER HERUNDER",
+
+	"featuresTitle": "EGENSKABER - VÆR MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "IMPONERENDE SKÅNSELSLØS ØDEMARK",
+			"main": "Udforsk den dystre, dynamiske verden, mens du bevæger dig gennem forræderisk terræn, fjendtlige vejrmønstre og dødbringende marodører."
+		},
+		"two": {
+			"title": "INTENS KØRETØJSKAMPE",
+			"main": "Kast dig ud i dynamiske kampe mellem køretøjer, hvor du kan stikke en kæp i hjulet på fjenden med en lang række mægtige våben."
+		},
+		"three": {
+			"title": "VÆR MAD MAX",
+			"main": "Du kan være den ikoniske, postapokalyptiske kriger og lave Max' udstyr og våben, så du kan overleve ved at kombinere nærkampe, skydevåben og taktiske teknikker."
+		}
+	},
+
+	"preOrderTitle": "BRAVE THE WASTELAND - FORUDBESTIL NU",
+	"step1": "TRIN 1",
+	"step2": "TRIN 2",
+	"step3": "TRIN 3",
+	"step4": "TRIN 4",
+	"selectPlatform": "VÆLG PLATFORM",
+	"selectCountry": "VÆLG LAND",
+	"selectProduct": "VÆLG PRODUKT",
+	"selectRetailer": "VÆLG FORHANDLER",
+	"visitRetailer": "BESØG FORHANDLER",
+	"mediaScreenshots": "MEDIA - SKÆRMBILLEDER",
+	"awardsAndNominations": "PRISER"
+}

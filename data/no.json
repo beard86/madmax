@@ -1,0 +1,41 @@
+{
+	"localeCode": "no",
+	"localeName": "NORGE",
+	"dataDefault": {
+		"no": "data-default"
+	},
+	"available": "TILGJENGELIG 01.09.15",
+	"braveTheWasteland": "BRAVE THE WASTELAND",
+	"preOrder": "FORHÅNDSBESTILL",
+	"learnMore": "LÆR MER",
+	"latestTrailer": "SENESTE TRAILER - EYE OF THE STORM - SE DEN NYESTE TRAILEREN NEDENFOR",
+
+	"featuresTitle": "EGENSKAPER - VÆR MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "FENGSLENDE ØRKENLANDSKAP",
+			"main": "Utforsk det steinete, dynamiske universet mens du trosser farlige landskap, fryktelig uvær og livsfarlige plyndrere."
+		},
+		"two": {
+			"title": "INTENSE BILKAMPER",
+			"main": "Prøv deg på dynamiske bilkamper hvor du uskadeliggjør fiendtlige kjøretøy med et stort utvalg kraftige våpen."
+		},
+		"three": {
+			"title": "VÆR MAD MAX",
+			"main": "Vær den ikoniske, postapokalyptiske krigeren Max. For å overleve må du utforme utstyret og våpnene hans, og du må kombinere nærkamp, skyting og taktikk."
+		}
+	},
+
+	"preOrderTitle": "BRAVE THE WASTELAND - FORHÅNDSBESTILL NÅ",
+	"step1": "TRINN 1",
+	"step2": "TRINN 2",
+	"step3": "TRINN 3",
+	"step4": "TRINN 4",
+	"selectPlatform": "VELG PLATTFORM",
+	"selectCountry": "VELG LAND",
+	"selectProduct": "VELG PRODUKT",
+	"selectRetailer": "VELG FORHANDLER",
+	"visitRetailer": "GÅ TIL FORHANDLER",
+	"mediaScreenshots": "MEDIA - SKJERMBILDER",
+	"awardsAndNominations": "PRISER OG NOMINASJONER"
+}

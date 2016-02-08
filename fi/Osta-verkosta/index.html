@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+
+<meta id="viewport" name="viewport" content="width=600,user-scalable=no">
+
+<link href="../../styles/app.css" rel="stylesheet" type="text/css">
+<link href="../../fonts/fonts.css" rel="stylesheet" type="text/css">
+<link href="../../favicon.png" rel="shortcut icon" type="image/ico"/>
+<link rel="stylesheet" href="../../nivoslider/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../../nivoslider/nivo-slider.css" type="text/css" media="screen" />
+
+<title>Mad Max | ENNAKKOTILAA</title>
+<meta name="description" content="Mad Max | Official Pre Order"/>
+
+<style type="text/css">
+.intro-title {background-image: url("localised-images/intro-title.png");}
+.trailer-header {background-image: url("localised-images/trailer-header.png");}
+.features-header {background-image: url("localised-images/features-header.png");}
+.media-header {background-image: url("localised-images/media-header.png");}
+.awards-header {background-image: url("localised-images/awards-header.png");}
+.preorder-header {background-image: url("localised-images/preorder-header.png");}
+</style>
+
+<script type="text/javascript">
+var localeCode = "fi";
+var localeName = "FINLAND";
+</script>
+
+</head>
+<body>
+
+
+<div class="section" id="intro">
+
+    <div id="locale-selector">
+
+        <dl>
+
+            <dt class="label">
+                <span> </span>
+                <img src="../../img/locale-icon.svg" alt=""/>
+            </dt>
+
+            <dd class="list">
+                <ul>
+                    <li data-key="au/buy-online"  data-name"AUSTRALIA">AUSTRALIA</li>
+                    <li data-key="be/acheter-en-ligne"  data-name"BELGIUM-FR">BELGIQUE</li>
+                    <li data-key="be/online-kopen"  data-name"BELGIUM-DUTCH">BELGI&#203;</li>
+                    <li data-key="dk/kob-online"  data-name"DENMARK">DANMARK</li>
+                    <li data-key="de/online-kaufen"  data-name"GERMANY">DEUTSCHLAND</li>
+                    <li data-key="es/comprar-online"  data-name"SPAIN">ESPA&#209;A</li>
+                    <li data-key="fi/Osta-verkosta" data-default data-name"FINLAND">FINLAND</li>
+                    <li data-key="fr/acheter-en-ligne"  data-name="FRANCE">FRANCE</li>
+                    <li data-key="it/compra-online"  data-name"ITALY">ITALIA</li>
+                    <li data-key="nl/online-kopen"  data-name"NETHERLAND-DUTCH">NEDERLAND</li>
+                    <li data-key="no/kjop-online"  data-name"NORWAY">NORGE</li>
+                    <li data-key="ch/online-kaufen"  data-name"SWITZERLAND">SCHWEIZ</li>
+                    <li data-key="at/online-kaufen"  data-name"AUSTRIA">&#214;STERREICH</li>
+                    <li data-key="se/kop-online"  data-name"SWEDEN">SVERIGE</li>
+                    <li data-key="gb/buy-online"  data-name="UK">UK</li>
+                </ul>
+            </dd>
+
+        </dl>
+
+    </div>
+
+    <div class="intro-available">SAATAVANA 1.9.2015</div>
+    <div class="intro-title">BRAVE THE WASTELAND</div>
+    <a href="#preorder"><div class="intro-button">ENNAKKOTILAA</div></a>
+    <a href="#learn"><div class="intro-button">LUE LISÄÄ</div></a>
+</div>
+
+<div class="section" id="trailer">
+    <div class="trailer-header">VIIMEISIN TRAILER - EYE OF THE STORM - KATSO UUSIN TRAILERI ALTA</div>
+    <div class="trailer-wrapper">
+        <div class="trailer-poster">
+            <div class="trailer-play"></div>
+        </div>
+        <iframe id="ytplayer" style="position:relative; display:none; width:100%; height:100%;" type="text/html" src="" frameborder="0"></iframe>
+    </div>
+
+</div>
+
+<div class="section" id="features">
+    <a name="learn"></a>
+    <div class="features-header">OMINAISUUDET - OLE MAX ROCKATANSKY</div>
+
+    <div class="features-blocks">
+        <div class="features-block">
+            <img src="../../img/features-1.jpg"/>
+            <span>MONIPUOLINEN, VILLI ERÄMAA</span>
+            <p>Tutustu ankaraan, dynaamiseen maailmaan ja vaella vaarallisissa ympäristöissä, selviydy armottomista sääolosuhteista ja kohtaa verenhimoisia vihollisia.</p>
+        </div>
+        <div class="features-block">
+            <img src="../../img/features-2.jpg"/>
+            <span>INTENSIIVISET AJONEUVOTAISTELUT</span>
+            <p>Käy dynaamisia ajoneuvotaisteluita ja hoitele vihollisen kulkupelejä monipuolisella valikoimalla tehokkaita aseita.</p>
+        </div>
+        <div class="features-block">
+            <img src="../../img/features-3.jpg"/>
+            <span>OLE MAD MAX</span>
+            <p>Ole ikoninen postapokalyptinen soturi, kehitä Maxin varusteita ja aseita ja selviydy yhdistelemällä lähitaistelua, asetaistelua ja taktisia tekniikoita.</p>
+        </div>
+    </div>
+</div>
+
+<div class="section" id="preorder">
+    <a name="preorder"></a>
+    <div class="preorder-margin">
+        <div class="preorder-header">BRAVE THE WASTELAND - ENNAKKOTILAA NYT</div>
+
+        <div class="preorder-steps">
+
+            <div class="preorder-step preorder-step1">
+                <div class="preorder-title">VAIHE 1: VALITSE ALUSTA</div>
+                <div class="preorder-platform preorder-pc active">PC</div>
+                <div class="preorder-platform preorder-ps4 faded">PS4</div>
+                <div class="preorder-platform preorder-xboxone faded">XBOX ONE</div>
+            </div>
+
+            <div class="preorder-step preorder-step2">
+                <div class="preorder-title">VAIHE 2: VALITSE MAA</div>
+                <div class="dropdown" id="preorder-country"></div>
+            </div>
+
+            <div class="preorder-step preorder-step3">
+                <div class="preorder-title">VAIHE 3: VALITSE TUOTE</div>
+                <div class="dropdown" id="preorder-product"></div>
+            </div>
+
+            <div class="preorder-step preorder-step4">
+                <div class="preorder-title">VAIHE 4: VALITSE JÄLLEENMYYJÄ</div>
+                <div class="dropdown" id="preorder-retailer"></div>
+            </div>
+
+        </div>
+
+        <div class="preorder-visit">JÄLLEENMYYJÄN SIVUILLE</div>
+
+        <div class="preorder-packshot"></div>
+    </div>
+</div>
+
+<div class="section" id="media">
+    <div class="media-header">MEDIA - KUVAKAAPPAUKSIA</div>
+    <div class="media-screenshots theme-default">
+        <div id="slider" class="nivoSlider">
+            <img src="../../img/screenshot-1.jpg" data-thumb="screenshot-1.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-2.jpg" data-thumb="screenshot-2.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-3.jpg" data-thumb="screenshot-3.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-4.jpg" data-thumb="screenshot-4.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-5.jpg" data-thumb="screenshot-5.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-6.jpg" data-thumb="screenshot-6.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-7.jpg" data-thumb="screenshot-7.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-8.jpg" data-thumb="screenshot-8.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-9.jpg" data-thumb="screenshot-9.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-10.jpg" data-thumb="screenshot-10.jpg" data-transition="fade"/>
+            <img src="../../img/screenshot-11.jpg" data-thumb="screenshot-11.jpg" data-transition="fade"/>
+        </div>
+    </div>
+</div>
+
+<!-- <div class="section" id="awards">
+    <div class="awards-header">PALKINTOA JA EHDOKKUUTTA</div>
+    <div class="awards-badges"></div>
+</div> -->
+
+<div class="section" id="Footer">
+        <div id="FooterInner">
+            <div class="mm-footer-content-logos-right">
+                <img src="../../img/wb-games-logo.png" id="LogoWb">
+                <img src="../../img/avalanche-logo.png" id="LogoAvalanche">
+            </div>
+            <div class="mm-footer-content-logos-left">
+                <div id="LogoPegi"><img src="../../img/pegi-18-white.svg" id="LogoPegiSvg"></div>
+            </div>
+            <div class="mm-footer-content-logos-platforms">
+                <img src="../../img/xbox-logo-white.svg" id="LogoXbox">
+                <img src="../../img/ps4-lockup-white.svg" id="LogoPs4">
+                <img src="../../img/pc-dvd-rom-logo.png" id="LogoPc">
+            </div>
+            <div class="mm-footer-content-legals">
+
+
+                Mad Max &copy; 2015 Warner Bros. Entertainment Inc. Developed by Avalanche Studios.
+
+                <div style="display:inline-block">"<img src="../../img/ps-logo-small.png" height="8" style="vertical-align:baseline;">"</div> and "PlayStation" are trademarks or registered trademarks of Sony Computer Entertainment Inc.  <div style="display:inline-block">"<img src="../../img/ps4-logo-small.png" height="7" style="vertical-align:baseline;">"</div> is a trademark of the same company. All other trademarks and copyrights are the property of their respective owners. All rights reserved.<br><br>
+
+                <img src="../../img/wb-logo-small.png" style="float:left;" width="16"><div id="WbLegals">Mad Max and all related elements are trademarks of and &copy; Warner Bros. Entertainment Inc.<br>
+                WB GAMES LOGO, WB SHIELD: &trade; &amp; &copy; Warner Bros. Entertainment Inc.<br>
+                (s15)<div class="adchoices"><a href="http://www.aboutads.info/choices/" target="_blank">AdChoices</a></div></div>
+
+            </div>
+        </div>
+    </div>
+
+<!-- ONLY SCRIPTS BELOW HERE -->
+
+<script src="../../js/jquery-1.11.3.min.js"></script>
+<script src="../../js/lodash.min.js"></script>
+<script src="../../js/app.js"></script>
+<script type="text/javascript" src="../../nivoslider/jquery.nivo.slider.js"></script>
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-245108-103', 'auto');
+    ga('send', 'pageview');
+</script>
+
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KZQ6W8"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-KZQ6W8');</script>
+
+<!-- End Google Tag Manager -->
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+{
+	"localeCode": "be-nl",
+	"localeName": "BELGIË",
+	"dataDefault": {
+		"beNl": "data-default"
+	},
+	"available": "BESCHIKBAAR 04.09.15",
+	"braveTheWasteland": "TROTSEER DE WOESTENIJ",
+	"preOrder": "VOORUITBESTELLEN",
+	"learnMore": "MEER INFORMATIE",
+	"latestTrailer": "NIEUWSTE TRAILER - HET OOG VAN DE STORM - BEKIJK DE NIEUWSTE TRAILER HIERONDER",
+
+	"featuresTitle": "KENMERKEN - KRUIP IN DE HUID VAN MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "IMMERSIEF ONBEWOOND GEBIED",
+			"main": "Verken de zanderige, dynamische wereld en trotseer de verraderlijke landschappen, het vijandelijke klimaat en de dodelijke plunderaars."
+		},
+		"two": {
+			"title": "INTENSE VOERTUIGGEVECHTEN",
+			"main": "Neem deel aan dynamische onderlinge voertuiggevechten en schakel vijandelijke voertuigen uit met een groot aantal krachtige wapens."
+		},
+		"three": {
+			"title": "SPEEL DE ROL VAN MAD MAX",
+			"main": "Kruip in de huid van de bekende postapocalyptische strijder en vervaardig zelf de uitrusting en wapens die hij nodig heeft om te overleven."
+		}
+	},
+
+	"preOrderTitle": "TROTSEER DE WOESTENIJ - NU VOORUITBESTELLEN",
+	"step1": "STAP 1",
+	"step2": "STAP 2",
+	"step3": "STAP 3",
+	"step4": "STAP 4",
+	"selectPlatform": "KIES PLATFORM",
+	"selectCountry": "KIES LAND",
+	"selectProduct": "KIES PRODUCT",
+	"selectRetailer": "KIES WINKEL",
+	"visitRetailer": "BEZOEK WINKEL",
+	"mediaScreenshots": "MEDIA - SCREENSOTS",
+	"awardsAndNominations": "PRIJZEN EN GENOMINEERD"
+}

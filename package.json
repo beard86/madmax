@@ -1,0 +1,25 @@
+{
+  "name": "MadMaxCompoFrontend",
+  "version": "1.0.0",
+  "description": "Mad Max Compo Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mustache-render": "^1.7.0",
+    "sass": "^0.5.0"
+  },
+  "devDependencies": {
+    "grunt-http-server": "^1.4.0",
+    "grunt-keepalive": "0.0.1",
+    "http-server": "^0.8.0"
+  }
+}

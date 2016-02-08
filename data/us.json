@@ -1,0 +1,41 @@
+{
+	"localeCode": "us",
+	"localeName": "UNITED STATES",
+	"dataDefault": {
+		"us": "data-default"
+	},
+	"available": "AVAILABLE 04.09.15",
+	"braveTheWasteland": "BRAVE THE WASTELAND",
+	"preOrder": "PRE-ORDER",
+	"learnMore": "LEARN MORE",
+	"latestTrailer": "LATEST TRAILER - EYE OF THE STORM - WATCH THE LATEST TRAILER BELOW",
+
+	"featuresTitle": "FEATURES - BECOME MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "IMMERSIVE SAVAGE WASTELAND",
+			"main": "Explore the gritty, dynamic world while braving the treacherous landscapes, hostile weather patterns and deadly marauders."
+		},
+		"two": {
+			"title": "INTENSE VEHICULAR COMBAT",
+			"main": "Engage in dynamic inter-vehicular combat, taking down enemy vehicles with a range of powerful weapons."
+		},
+		"three": {
+			"title": "BE MAD MAX",
+			"main": "Become the iconic post-apocalyptic warrior, crafting Max’s equipment and weapons to survive by combining melee combat, gunplay and tactical techniques."
+		}
+	},
+
+	"preOrderTitle": "BRAVE THE WASTELAND - PRE-ORDER NOW",
+	"step1": "STEP 1",
+	"step2": "STEP 2",
+	"step3": "STEP 3",
+	"step4": "STEP 4",
+	"selectPlatform": "SELECT PLATFORM",
+	"selectCountry": "SELECT COUNTRY",
+	"selectProduct": "SELECT PRODUCT",
+	"selectRetailer": "SELECT RETAILER",
+	"visitRetailer": "VISIT RETAILER",
+	"mediaScreenshots": "MEDIA - SCREENSHOTS",
+	"awardsAndNominations": "AWARDS AND NOMINATIONS"
+}

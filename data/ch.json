@@ -1,0 +1,41 @@
+{
+	"localeCode": "ch",
+	"localeName": "SCHWEIZ",
+	"dataDefault": {
+		"ch": "data-default"
+	},
+	"available": "ERHÄLTLICH AB DEM 01.09.2015",
+	"braveTheWasteland": "TROTZE DEM ÖDLAND",
+	"preOrder": "VORBESTELLEN",
+	"learnMore": "MEHR ERFAHREN",
+	"latestTrailer": "NEUESTER TRAILER - DAS AUGE DES STURMS - SCHAU DIR DEN NEUESTEN TRAILER UNTEN AN",
+
+	"featuresTitle": "FEATURES - WERDE MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "FASZINIERENDE POSTAPOKALYPTISCHE WELT",
+			"main": "Erforsche die raue, dynamische Welt, während du der heimtückischen Landschaft, lebensfeindlichen Witterungsverhältnissen und tödlichen Banden von Plünderern trotzt."
+		},
+		"two": {
+			"title": "ACTIONREICHE FAHRZEUGKÄMPFE",
+			"main": "Beteilige dich an dynamischen Fahrzeugkämpfen und schalte deine Gegner mit einer Vielzahl an mächtigen Waffen aus."
+		},
+		"three": {
+			"title": "SEI MAD MAX",
+			"main": "Werde zur Kultfigur, dem postapokalytischen Krieger Mad Max, stelle seine Ausrüstung her und rüste sie auf; überlebe, indem du Nahkampf, Schusswaffen und taktisches Vorgehen kombinierst."
+		}
+	},
+
+	"preOrderTitle": "TROTZE DEM ÖDLAND - JETZT VORBESTELLEN",
+	"step1": "SCHRITT 1",
+	"step2": "SCHRITT 2",
+	"step3": "SCHRITT 3",
+	"step4": "SCHRITT 4",
+	"selectPlatform": "PLATTFORM AUSWÄHLEN",
+	"selectCountry": "LAND AUSWÄHLEN",
+	"selectProduct": "PRODUKT AUSWÄHLEN",
+	"selectRetailer": "FACHHÄNDLER AUSWÄHLEN",
+	"visitRetailer": "FACHHÄNDLER BESUCHEN",
+	"mediaScreenshots": "MEDIEN - SCREENSHOTS",
+	"awardsAndNominations": "AUSZEICHNUNGEN UND NOMINIERUNGEN"
+}

@@ -1,0 +1,41 @@
+{
+	"localeCode": "fi",
+	"localeName": "FINLAND",
+	"dataDefault": {
+		"fi": "data-default"
+	},
+	"available": "SAATAVANA 1.9.2015",
+	"braveTheWasteland": "BRAVE THE WASTELAND",
+	"preOrder": "ENNAKKOTILAA",
+	"learnMore": "LUE LISÄÄ",
+	"latestTrailer": "VIIMEISIN TRAILER - EYE OF THE STORM - KATSO UUSIN TRAILERI ALTA",
+
+	"featuresTitle": "OMINAISUUDET - OLE MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "MONIPUOLINEN, VILLI ERÄMAA",
+			"main": "Tutustu ankaraan, dynaamiseen maailmaan ja vaella vaarallisissa ympäristöissä, selviydy armottomista sääolosuhteista ja kohtaa verenhimoisia vihollisia."
+		},
+		"two": {
+			"title": "INTENSIIVISET AJONEUVOTAISTELUT",
+			"main": "Käy dynaamisia ajoneuvotaisteluita ja hoitele vihollisen kulkupelejä monipuolisella valikoimalla tehokkaita aseita."
+		},
+		"three": {
+			"title": "OLE MAD MAX",
+			"main": "Ole ikoninen postapokalyptinen soturi, kehitä Maxin varusteita ja aseita ja selviydy yhdistelemällä lähitaistelua, asetaistelua ja taktisia tekniikoita."
+		}
+	},
+
+	"preOrderTitle": "BRAVE THE WASTELAND - ENNAKKOTILAA NYT",
+	"step1": "VAIHE 1",
+	"step2": "VAIHE 2",
+	"step3": "VAIHE 3",
+	"step4": "VAIHE 4",
+	"selectPlatform": "VALITSE ALUSTA",
+	"selectCountry": "VALITSE MAA",
+	"selectProduct": "VALITSE TUOTE",
+	"selectRetailer": "VALITSE JÄLLEENMYYJÄ",
+	"visitRetailer": "JÄLLEENMYYJÄN SIVUILLE",
+	"mediaScreenshots": "MEDIA - KUVAKAAPPAUKSIA",
+	"awardsAndNominations": "PALKINTOA JA EHDOKKUUTTA"
+}

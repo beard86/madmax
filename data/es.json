@@ -1,0 +1,41 @@
+{
+	"localeCode": "es",
+	"localeName": "ESPAÑA",
+	"dataDefault": {
+		"es": "data-default"
+	},
+	"available": "DISPONIBLE EL 01/09/15",
+	"braveTheWasteland": "ENFRÉNTATE AL PÁRAMO",
+	"preOrder": "RESÉRVALO",
+	"learnMore": "INFÓRMATE",
+	"latestTrailer": "ÚLTIMO TRÁILER - EL OJO DE LA TORMENTA - DISFRUTA DEL ÚLTIMO TRÁILER MÁS ABAJO",
+
+	"featuresTitle": "CARACTERÍSTICAS - CONVIÉRTETE EN MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "WASTELAND (EL PÁRAMO)",
+			"main": "Explora un increíble y desértico mundo abierto, lleno de lugares traicioneros y con un clima hostil en el que habitan bandas de salvajes."
+		},
+		"two": {
+			"title": "INTENSOS COMBATES CON VEHÍCULOS",
+			"main": "Sumérgete en intensos combates entre vehículos e intenta acabar con tus enemigos con poderosas armas."
+		},
+		"three": {
+			"title": "CONVIÉRTETE EN MAD MAX",
+			"main": "Ponte en el papel del icónico guerrero post-apocalíptico, creando y mejorando el equipamiento y las armas de Max para sobrevivir en el combate."
+		}
+	},
+
+	"preOrderTitle": "ENFRÉNTATE AL PÁRAMO - RESERVA YA",
+	"step1": "PASO 1",
+	"step2": "PASO 2",
+	"step3": "PASO 3",
+	"step4": "PASO 4",
+	"selectPlatform": "SELECCIONAR CONSOLA",
+	"selectCountry": "SELECCIONAR PAÍS",
+	"selectProduct": "SELECCIONAR PRODUCTO",
+	"selectRetailer": "SELECCIONAR DISTRIBUIDOR",
+	"visitRetailer": "ENVIAR",
+	"mediaScreenshots": "MULTIMEDIA - CAPTURAS DE PANTALLA",
+	"awardsAndNominations": "PREMIOS Y NOMINACIONES"
+}

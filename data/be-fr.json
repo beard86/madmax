@@ -1,0 +1,41 @@
+{
+	"localeCode": "be-fr",
+	"localeName": "BELGIQUE",
+	"dataDefault": {
+		"beFr": "data-default"
+	},
+	"available": "DISPONIBLE LE 03.09.15",
+	"braveTheWasteland": "DÉFIEZ LE WASTELAND",
+	"preOrder": "PRÉCOMMANDEZ",
+	"learnMore": "EN SAVOIR PLUS",
+	"latestTrailer": "DERNIÈRE BANDE-ANNONCE - L'ŒIL DU CYCLONE - REGARDEZ LA DERNIÈRE BANDE-ANNONCE CI-DESSOUS",
+
+	"featuresTitle": "CONTENUS - DEVENEZ MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "DES TERRES DÉSOLÉES TRÈS IMMERSIVES",
+			"main": "Explorez ce monde dynamique et réaliste en bravant ces terres dangereuses, des conditions météorologiques hostiles et des gangs particulièrement violents."
+		},
+		"two": {
+			"title": "DES COMBATS INTENSES À BORD DE VÉHICULES",
+			"main": "Lancez-vous dans des combats dynamiques à bord de véhicules et détruisez les bolides ennemis grâce à votre puissant arsenal."
+		},
+		"three": {
+			"title": "INCARNEZ MAD MAX",
+			"main": "Entrez dans la peau de ce légendaire guerrier post-apocalyptique, fabriquez et améliorez l'équipement et les armes de Max pour survivre en alliant combats rapprochés, armes à feu et stratégie."
+		}
+	},
+
+	"preOrderTitle": "DÉFIEZ LE WASTELAND - PRÉCOMMANDEZ MAINTENANT",
+	"step1": "ÉTAPE 1",
+	"step2": "ÉTAPE 2",
+	"step3": "ÉTAPE 3",
+	"step4": "ÉTAPE 4",
+	"selectPlatform": "CHOISIR UNE PLATEFORME",
+	"selectCountry": "CHOISIR UN PAYS",
+	"selectProduct": "CHOISIR UN PRODUIT",
+	"selectRetailer": "CHOISIR UN REVENDEUR",
+	"visitRetailer": "ALLER CHEZ UN REVENDEUR",
+	"mediaScreenshots": "MÉDIAS - CAPTURES D’ÉCRAN",
+	"awardsAndNominations": "PRIX ET NOMINATIONS"
+}

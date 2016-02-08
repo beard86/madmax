@@ -1,0 +1,41 @@
+{
+	"localeCode": "it",
+	"localeName": "ITALIA",
+	"dataDefault": {
+		"it": "data-default"
+	},
+	"available": "DISPONIBILE IL 1/9/15",
+	"braveTheWasteland": "AFFRONTA IL WASTELAND",
+	"preOrder": "PRENOTA",
+	"learnMore": "MAGGIORI INFORMAZIONI",
+	"latestTrailer": "ULTIMO TRAILER - L'OCCHIO DEL CICLONE - GUARDA L'ULTIMO TRAILER QUI SOTTO",
+
+	"featuresTitle": "CARATTERISTICHE - DIVENTA MAX ROCKATANSKY",
+	"features": {
+		"one": {
+			"title": "IMMERSIVA E PRIMITIVA WASTELAND",
+			"main": "Esplora il sabbioso e dinamico mondo di gioco affrontando paesaggi pericolosi, condizioni meteorologiche avverse e minacciose gang di delinquenti."
+		},
+		"two": {
+			"title": "INTENSI COMBATTIMENTI A BORDO DI VEICOLI",
+			"main": "Impegnati in combattimenti a bordo di veicoli cercando di distruggere quelli dei nemici con un  vasto arsenale di potenti armi."
+		},
+		"three": {
+			"title": "SII MAD MAX",
+			"main": "Diventa il famoso guerriero post apocalittico, modifica e migliora l’equipaggiamento e le armi di Max per sopravvivere combinando combattimento dalla distanza, utilizzo di armi da fuoco e tecniche tattiche."
+		}
+	},
+
+	"preOrderTitle": "AFFRONTA IL WASTELAND - PRENOTA SUBITO",
+	"step1": "1° PASSO",
+	"step2": "2° PASSO",
+	"step3": "3° PASSO",
+	"step4": "4° PASSO",
+	"selectPlatform": "SCEGLI LA CONSOLE",
+	"selectCountry": "SCEGLI IL PAESE",
+	"selectProduct": "SCEGLI IL PRODOTTO",
+	"selectRetailer": "SCEGLI IL RIVENDITORE",
+	"visitRetailer": "GUARDA IL TRAILER QUI SOTTO",
+	"mediaScreenshots": "MEDIA - IMMAGINI",
+	"awardsAndNominations": "PREMI E CANDIDATURE"
+}
